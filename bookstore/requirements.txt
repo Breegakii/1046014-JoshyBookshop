@@ -1,0 +1,9 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+pillow
+python-dotenv
+django-environ
+drf-nested-routers
+django-filter
+django-cors-headers
